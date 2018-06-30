@@ -10,7 +10,7 @@ import com.biqasoft.entity.dto.export.excel.ExportLeadGenMethodDTO;
 import com.biqasoft.entity.dto.export.excel.ExportLeadGenMethodWithProjects;
 import com.biqasoft.entity.filters.LeadGenMethodExcelFilter;
 import com.biqasoft.entity.filters.LeadGenProjectFilter;
-import com.biqasoft.entity.indicators.dto.IndicatorsDTO;
+import com.biqasoft.gateway.indicators.dto.IndicatorsDTO;
 import com.biqasoft.exporter.excel.common.excel.ExcelBasicObjectPrinter;
 import com.biqasoft.exporter.excel.common.excel.ExcelHelperService;
 import com.biqasoft.exporter.excel.dataobject.LocalizedExcelHeader;
